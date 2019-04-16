@@ -1,2 +1,2 @@
 # TSP_BB-Plugin
-A QGIS plugin to get the best route of travellng salesman problem!
+This QGIS plugin uses branch and bound to get the best route of travellng salesman problem!
